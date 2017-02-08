@@ -309,6 +309,6 @@ private def sendNotification(message) {
 }
 
 private def LOG(message, level=3, child=null, logType="debug", event=true, displayEvent=true) {
-	message = "${app.label} ${message}"
+	message = "${app.label} ${message}" 
 	parent.LOG(message, level, child, logType, event, displayEvent)
 }
