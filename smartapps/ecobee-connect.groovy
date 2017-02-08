@@ -29,7 +29,7 @@
  *	https://github.com/SANdood/Ecobee
  *
  *  See Changelog for change history
- * 
+ *
  * 	0.9.18 - Fix customer Program handling
  *	0.9.19 - Add attributes to indicate custom program names to child thermostats (smart1, smart2, etc)
  *  0.9.20 - Allow installations where no "location" is set. Useful for virtual hubs and testing
