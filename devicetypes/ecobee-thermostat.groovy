@@ -1,7 +1,7 @@
 /**
  *  Based on original version Copyright 2015 SmartThings
  *  Additions Copyright 2016 Sean Kendall Schneyer
- *  Additions Copyright 2017 Barry A. Burke
+ *  Additions Copyright 2017 Barry A. Burke 
  *
  *  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except
  *  in compliance with the License. You may obtain a copy of the License at:
