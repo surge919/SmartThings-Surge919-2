@@ -34,7 +34,7 @@
  *	0.9.19 - Add attributes to indicate custom program names to child thermostats (smart1, smart2, etc)
  *  0.9.20 - Allow installations where no "location" is set. Useful for virtual hubs and testing
  *	0.10.1 - Massive overhaul (see https://github.com/SANdood/Ecobee)
- *	0.10.2 - Added Smart Zone helper app
+ *	0.10.2 - Added Smart Zone helper app 
  *	0.10.3 - Added Smart Circulation helper app
  *	0.10.4 - Beta Release of Barry's updated version
  *	0.10.5 - Bug Fixes by Barry
